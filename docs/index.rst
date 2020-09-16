@@ -10,8 +10,11 @@ Welcome to mother's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   daughter
+
 This is mother
 
+Link to the whole `family <https://family-test.readthedocs.io/en/latest>`_
 
 Indices and tables
 ==================
